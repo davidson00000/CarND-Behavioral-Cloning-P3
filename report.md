@@ -41,7 +41,7 @@ model.add(Dense(1))
 ## Result of First TRY
 After bridge, we need to turn left without lane lines. In this corner, my model missed.
 
-![image1](.miss.png)
+![image1](miss.png)
 
 ## Strategy of second TRY
 For increasing the training data, we use side camera datas.
@@ -49,7 +49,7 @@ For increasing the training data, we use side camera datas.
 ## Result of Second TRY
 not improved.
 
-![image2](.miss2.png)
+![image2](miss2.png)
 
 ## Future Plans
  For more improvements, we need to use milticamera data.
